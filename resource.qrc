@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>css/styleSheetMessageBox.qss</file>
+        <file>song/Click.wav</file>
+        <file>song/Click2.wav</file>
+        <file>song/Op2.mp3</file>
+        <file>song/Op3.mp3</file>
+        <file>HACKED.ttf</file>
+        <file>img/icon.ico</file>
+    </qresource>
+</RCC>
